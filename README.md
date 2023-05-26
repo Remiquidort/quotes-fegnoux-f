@@ -8,6 +8,6 @@
 
 ## Fork urls
 
-- 'contributor-1' : [Techer Louis Groupe F](https://github.com/NqxaL/quotes-Remi-F/forks)
-- 'contributor-2' : [https://github.com/ArthurBGdezinzin/quotes-Remi-F](https://github.com/ArthurBGdezinzin/quotes-Remi-F/forks)
-- 'contributor-3' : [Flandin Nicolas Groupe F ](https://github.com/Nico9417/quotes--F/forks )
+- 'contributor-1' : [quotes-techer-f](https://github.com/NqxaL/quotes-techer-f)
+- 'contributor-2' : [quotes-bride-f](https://github.com/ArthurBGdezinzin/quotes-bride-f)
+- 'contributor-3' : [quotes-flandin-f](https://github.com/Nico9417/quotes-flandin-f/forks )
