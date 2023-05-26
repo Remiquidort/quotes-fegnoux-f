@@ -27,3 +27,4 @@ def add_quote(quotes, filename):
     
     with open(filename, 'a') as file:
         file.write(new_quote)
+        
